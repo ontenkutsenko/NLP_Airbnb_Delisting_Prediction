@@ -1,0 +1,11 @@
+Diogo and Max:
+
+1st model attempt 
+	Using only Description and Host about 
+	Translate all to English and pickle
+	Clean text (Reg expression, stop word removal, tokenize, lemmatize)
+	Use any pre-trained model for embedding - maybe genesis google news, maybe compare with our own model and other pre trained
+	Avg vectors within Description and within Host about 
+	Concatenate the 2
+	Predict 
+
